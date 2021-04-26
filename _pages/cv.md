@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Resume (PDF version, not updated frequently)](https://github.com/Jingnan-Jia/Jingnan-Jia.github.io/files/Jingnan_cv_2019.pdf)
+
 Education
 ======
 * B.S. in Taiyuan University of Technology, Taiyuan, China
@@ -38,7 +40,8 @@ Skills
 * Programming language
   * Python
   * MATLAB
-  * Sub-skill 2.3
+  * Shell
+
 * Deep learning platform
   * PyTorch
   * TensorFlow
