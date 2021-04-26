@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Taiyuan University of Technology, Taiyuan, China
-  * Applied Physics
+  * Applied physics
   * 2011-2015
   
 * M.S. in Xidian University, Xian, China 
