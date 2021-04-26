@@ -11,30 +11,37 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Taiyuan University of Technology, Taiyuan, China
+  * Applied Physics
+  * 2011-2015
+  
+* M.S. in Xidian University, Xian, China 
+  * Electromagnetic field and microwave technology
+  * Supervisor: Yong-Chang Jiao
+  * 2016-2019
+  
+* Ph.D in Leiden University, Leiden, the Netherlands
+  * Deep learning in medical image analysis
+  * Supervisor: Berend Stoel and Marius Staring
+  * 2019-2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Research Assistant
+  * Dongguan University of Technology
+  * Duties included: Poisoning Attack in Deep Neural Network
+  * Supervisor: Professor Yi Wang (Alice)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+* Programming language
+  * Python
+  * MATLAB
   * Sub-skill 2.3
-* Skill 3
+* Deep learning platform
+  * PyTorch
+  * TensorFlow
 
 Publications
 ======
@@ -56,4 +63,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Maintain an open sourse package: [seg-metrics](https://pypi.org/project/seg-metrics/)
