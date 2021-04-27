@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume (PDF version, not updated frequently)](https://github.com/Jingnan-Jia/Jingnan-Jia.github.io/files/Jingnan_cv_2019.pdf)
+[Resume (PDF version, not updated frequently)](https://github.com/Jingnan-Jia/Jingnan-Jia.github.io/tree/master/files/Jingnan_cv_2019.pdf)
 
 Education
 ======
