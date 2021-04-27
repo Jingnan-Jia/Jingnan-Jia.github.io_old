@@ -11,6 +11,8 @@ redirect_from:
 
 [Resume (PDF version, not updated frequently)](https://github.com/Jingnan-Jia/Jingnan-Jia.github.io/tree/master/files/Jingnan_cv_2019.pdf)
 
+<a href='/files/Jingnan_cv_2019.pdf'>Resume (PDF version, not updated frequently)</a>
+
 Education
 ======
 * B.S. in Taiyuan University of Technology, Taiyuan, China
