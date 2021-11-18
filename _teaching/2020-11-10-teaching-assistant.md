@@ -8,4 +8,4 @@ date: 2020-11-10
 location: "Leiden, the Netherlands"
 ---
 
-The course consists of lectures and Matlab practicals. I served as a TA in the course.
+The course consists of lectures and Matlab practicals. I served as a TA in the Matlab practicals.
