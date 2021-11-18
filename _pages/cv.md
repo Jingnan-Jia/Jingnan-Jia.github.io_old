@@ -66,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* Own and still maintain an open sourse package: [seg-metrics](https://pypi.org/project/seg-metrics/)
+* Own and still maintain an open sourse package: [seg-metrics](https://pypi.org/project/seg-metrics/) for medical image segmentation metrics calculation.
