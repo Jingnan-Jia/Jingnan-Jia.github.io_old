@@ -1,5 +1,5 @@
 ---
-title: "Matlab in Image Processing"
+title: "Matlab in Image Processing 2021"
 collection: teaching assistant
 type: "Graduate course"
 permalink: /teaching/2021-11-09-teaching-assistant
