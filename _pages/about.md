@@ -11,24 +11,8 @@ Hello! I am currently a second-year PhD student in [Division of Image Processing
 
 Research Interests: **Deep learning, Medical image analysis, CT Segmentation and score regression.**
 
-[//]: #(
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
-)
+
+
+
 
