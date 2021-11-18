@@ -2,7 +2,7 @@
 title: "Introduction on Mandarin"
 collection: talks
 type: "Talk"
-permalink: /talks/2021-04-08-Thursday-meeting-1
+permalink: /talks/2021-04-08-Thursday-meeting
 venue: "LKEB zoom online"
 date: 2021-04-08
 location: "Leiden, the Netherlands"
