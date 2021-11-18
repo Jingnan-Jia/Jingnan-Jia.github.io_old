@@ -2,7 +2,7 @@
 title: "multi-task semi-supervised learning for pulmonary lobe segmentation"
 collection: talks
 type: "Conference Procceding Talks"
-permalink: /talks/2021-04-13-conference-talk-1
+permalink: /talks/2021-04-13-conference-talk
 venue: "Online"
 date: 2021-04-13
 location: "Leiden, the Netherlands"
