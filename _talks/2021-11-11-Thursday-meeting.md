@@ -2,7 +2,7 @@
 title: "Introduction on MONAI and its bootcamp-2021, and my own developed package seg-metrics"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2021-11-11
+permalink: /talks/2021-11-11-Thursday-meeting
 venue: "LKEB zoom online"
 date: 2021-11-11
 location: "Leiden, the Netherlands"
