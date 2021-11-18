@@ -1,5 +1,5 @@
 ---
-title: "multi-task semi-supervised learning for pulmonary lobe segmentation"
+title: "Multi-task semi-supervised learning for pulmonary lobe segmentation"
 collection: talks
 type: "Conference Procceding Talks"
 permalink: /talks/2021-04-13-conference-talk
