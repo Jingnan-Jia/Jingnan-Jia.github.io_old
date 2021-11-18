@@ -1,5 +1,5 @@
 ---
-title: "Introduction on MONAI and its bootcamp-2021, and my own developed package seg-metrics"
+title: "Introduction on MONAI and its bootcamp-2021, and own developed package seg-metrics"
 collection: talks
 type: "Tutorial"
 permalink: /talks/2021-11-11-Thursday-meeting
