@@ -48,8 +48,8 @@ Skills
 
 Other activieies
 ==================
-Reviewer for Medical Image Analysis
-Student member of SPIE
+* Reviewer for Medical Image Analysis
+* Student member of SPIE
 
 Publications
 ======
