@@ -46,6 +46,11 @@ Skills
   * PyTorch
   * TensorFlow
 
+Other activieies
+==================
+Reviewer for Medical Image Analysis
+Student member of SPIE
+
 Publications
 ======
   <ul>{% for post in site.publications %}
