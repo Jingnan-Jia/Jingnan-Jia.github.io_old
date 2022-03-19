@@ -46,10 +46,18 @@ Skills
   * PyTorch
   * TensorFlow
 
+Achievements
+=================
+* Finalist of best student paper award for SPIE: Medical Imaging 2022
+
+
 Other activieies
 ==================
 * Reviewer for Medical Image Analysis
 * Student member of SPIE
+* Own and still maintain an open sourse package: [seg-metrics](https://pypi.org/project/seg-metrics/) for medical image segmentation metrics calculation.
+
+
 
 Publications
 ======
@@ -68,7 +76,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Own and still maintain an open sourse package: [seg-metrics](https://pypi.org/project/seg-metrics/) for medical image segmentation metrics calculation.
