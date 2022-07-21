@@ -87,8 +87,8 @@ author:
   employer         : "LUMC"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=T6irKtwAAAAJ&hl"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "jiajingnan2222@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Jingnan-Jia"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jia-jingnan-20103715b/"
   orcid            : "https://orcid.org/0000-0002-1025-2557"
   pinterest        :
   soundcloud       :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  CSDN             : "https://mp.csdn.net/mp_blog/manage/article?spm=3001.5298"
 
 
 # Reading Files
