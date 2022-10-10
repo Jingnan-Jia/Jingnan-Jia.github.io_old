@@ -7,6 +7,8 @@ tags:
 
 ---
 
+This blog will show the step-by-step experience building my own academic website.
+ 
 ## Why you need a website?
 
 
