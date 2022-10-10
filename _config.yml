@@ -11,7 +11,7 @@ title                    : "Jingnan Jia (贾京南)"
 title_separator          : "-"
 name                     : &name "Jingnan Jia"
 description              : &description "PhD student in Leiden University Medical Center. Research interests include deep learning based medical image analysis."
-url                      : https://Jingnan-Jia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Jingnan-Jia.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jingnan-Jia/Jingnan-Jia.github.io"
 teaser                   : # "profile.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -20,6 +20,8 @@ words_per_minute         : 160
 future                   : true  # show the future `post` pages. See `_technical_blog/2199-01-01-future-post.md` for more details.
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : true  #change to true to add link to talkmap on talks page
+tripmap_link             : true  #change to true to add link to tripmap on life page
+
 comments:
   provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:                   # I desabled it because it may introduce some advertisements.
