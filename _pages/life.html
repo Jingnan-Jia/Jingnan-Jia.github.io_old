@@ -3,12 +3,13 @@ layout: archive
 title: "Life"
 permalink: /life/
 author_profile: true
+redirect_from:
+  - /daily_life/
 ---
 
 {% include base_path %}
 
-
-{% for post in site.life %}
+{% for post in site.life reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
