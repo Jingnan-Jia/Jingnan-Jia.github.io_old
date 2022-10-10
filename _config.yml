@@ -17,7 +17,7 @@ repository               : "Jingnan-Jia/Jingnan-Jia.github.io"
 teaser                   : # "profile.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true  # show the future `post` pages. See `_posts/2199-01-01-future-post.md` for more details.
+future                   : true  # show the future `post` pages. See `_technical_blog/2199-01-01-future-post.md` for more details.
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : true  #change to true to add link to talkmap on talks page
 comments:
@@ -207,7 +207,7 @@ defaults:
       layout: single
       author_profile: true
 
-  # _posts
+  # _technical_blog
   - scope:
       path: "" # an empty string here means all files in the project
       type: technical blog  # this will only set the layout for files where the type is posts. The different types that are
