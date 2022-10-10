@@ -1,5 +1,5 @@
 ---
-title: 'Introduction on MONAI'
+title: 'Introduction to MONAI'
 date: 2022-9-10
 tags:
   - Python packages
