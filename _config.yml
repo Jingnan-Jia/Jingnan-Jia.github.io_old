@@ -178,41 +178,49 @@ kramdown:
 
 
 # Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+collections:  # used for `type` setting in the below chapter
+
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  technical blog:
+    output: true
+    permalink: /:collection/:path/
+  life:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # Defaults
 defaults:
   # _posts
   - scope:
-      path: ""
-      type: posts
-    values:
+      path: "" # an empty string here means all files in the project
+      type: technical blog  # this will only set the layout for files where the type is posts. The different types that are
+                            # available to you are pages, posts, drafts or any collection in your site. While type is optional,
+                            # you must specify a value for path when creating a scope/values pair.
+    values:  # all files, which match the type and in the path, will apply the follwing setting.
       layout: single
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+
+#  # _pages
+#  - scope:
+#      path: ""  # an empty string here means all files in the project
+#      type: pages
+#    values:
+#      layout: single
+#      author_profile: true
   # _teaching
   - scope:
       path: ""
@@ -231,10 +239,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # life
   - scope:
       path: ""
-      type: portfolio
+      type: life
     values:
       layout: single
       author_profile: true
