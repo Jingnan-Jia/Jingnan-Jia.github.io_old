@@ -189,7 +189,7 @@ collections:  # used for `type` setting in the below chapter
   teaching:
     output: true
     permalink: /:collection/:path/
-  technical blog:
+  technical_blog:
     output: true
     permalink: /:collection/:path/
   life:
@@ -210,7 +210,7 @@ defaults:
   # _technical_blog
   - scope:
       path: "" # an empty string here means all files in the project
-      type: technical blog  # this will only set the layout for files where the type is posts. The different types that are
+      type: technical_blog  # this will only set the layout for files where the type is posts. The different types that are
                             # available to you are pages, posts, drafts or any collection in your site. While type is optional,
                             # you must specify a value for path when creating a scope/values pair.
     values:  # all files, which match the type and in the path, will apply the follwing setting.
