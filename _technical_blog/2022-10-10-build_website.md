@@ -7,13 +7,16 @@ tags:
 
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+## Why you need a website?
 
-Headings are cool
-======
 
-You can have many headings
-======
+## How to build a website?
 
-Aren't headings cool?
-------
+
+## Use github pages to build a website
+
+
+## Build an academic website
+
+
+## jekyll
