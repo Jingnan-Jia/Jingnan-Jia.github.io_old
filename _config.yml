@@ -214,7 +214,7 @@ defaults:
                             # available to you are pages, posts, drafts or any collection in your site. While type is optional,
                             # you must specify a value for path when creating a scope/values pair.
     values:  # all files, which match the type and in the path, will apply the follwing setting.
-      layout: single
+      layout: single  # the optional layouts can be found under directory `_layouts`
       author_profile: true
       read_time: true
       comments: true
