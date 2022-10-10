@@ -2,6 +2,7 @@
 
 This academic website repository is cloned from https://github.com/academicpages/academicpages.github.io.
 
+Full setting could be found [here](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 ## How to set the configeration?
 
 Set site-wide configuration and create content & metadata (see below -- also see this set of diffs showing what files were changed to set up an example site for a user with the username "getorg-testacct")

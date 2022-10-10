@@ -14,7 +14,7 @@ description              : &description "PhD student in Leiden University Medica
 url                      : https://Jingnan-Jia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jingnan-Jia/Jingnan-Jia.github.io"
-teaser                   : "profile.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # "profile.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true  # show the future `post` pages. See `_posts/2199-01-01-future-post.md` for more details.
@@ -115,7 +115,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  CSDN             : "https://mp.csdn.net/mp_blog/manage/article?spm=3001.5298"
+  links:  # custom more author links
+    - label: "CSDN"
+    - icon: "https://upload.wikimedia.org/wikipedia/commons/d/dc/CSDN_Logo.svg"
+    - url: "https://blog.csdn.net/weixin_41490373?type=blog"
 
 
 # Reading Files
