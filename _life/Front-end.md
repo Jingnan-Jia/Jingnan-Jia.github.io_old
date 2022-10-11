@@ -1,3 +1,12 @@
+---
+title: "浅学习一下前端基本知识"
+collection: life # all collections can be found in _config.yml -> collections
+tags:
+  - 学习
+  - Study
+
+---
+
 # 前端
 
 ## 前端设计
