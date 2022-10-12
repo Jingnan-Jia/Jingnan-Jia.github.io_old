@@ -91,6 +91,8 @@ algolia:
   index_name             : "JingnanGithubIO"
 # nodes_to_index         : 'section.page__content p, section.page__content h1, section.page__content h2, section.page__content h3, section.page__content h4, section.page__content h5, section.page__content h6, section.page__content img, section.page__content blockquote, section.page__content li, section.page__content dt, section.page__content dl'
   search_only_api_key    : "a46c40d121464e2dc8d629a9831a714b"
+  # The following settings are not necessary from the official tutorial https://community.algolia.com/jekyll-algolia/blog.html
+  # The following setting sare copied form https://github.com/iBug/iBug-source/blob/master/_config.yml
   powered_by             : true # true (default), false
   settings:
     searchableAttributes: ["title", "hierarchy.lvl0", "hierarchy.lvl1", "hierarchy.lvl2", "hierarchy.lvl3", "hierarchy.lvl4", "hierarchy.lvl5", "unordered(content)", "collection,categories,tags"]
