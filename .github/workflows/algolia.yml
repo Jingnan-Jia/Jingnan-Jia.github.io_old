@@ -17,4 +17,4 @@ jobs:
           bundle install --jobs 4 --retry 3
           bundle exec jekyll algolia
         env:
-          ALGOLIA_API_KEY: ${{ secrets.65844b1994aa09e502b219fbabdab4bb }}  # this line needs to be you admin_api_key!
+          ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}  # this needs to be you github token
