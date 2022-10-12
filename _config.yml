@@ -79,7 +79,7 @@ social:
 analytics:
   provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  G-CKPT9H2LK4
+    tracking_id          :  G-7XY9280WBB  # G-CKPT9H2LK4 is for jiajingnan222@gmail.com 
 
 
 # Search setting
