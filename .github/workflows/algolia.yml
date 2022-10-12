@@ -18,3 +18,4 @@ jobs:
           bundle exec jekyll algolia
         env:
           ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}  # add single quote to key
+        continue-on-error: true
