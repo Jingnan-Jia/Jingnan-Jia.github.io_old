@@ -23,9 +23,11 @@ talkmap_link             : true  #change to true to add link to talkmap on talks
 tripmap_link             : true  #change to true to add link to tripmap on life page
 
 comments:
-  provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  intensedebate:
+    key                  : '9081f907608c75b41271a9b0143dfd57'
   disqus:                   # I desabled it because it may introduce some advertisements.
-    shortname            :
+    shortname            : Jingnan
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
