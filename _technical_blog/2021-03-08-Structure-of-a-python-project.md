@@ -1,5 +1,5 @@
 ---
-title: 'Structure of a python project'
+title: 'Full tutorial for a complete python project'
 tags:
   - python
   - Tutorial
