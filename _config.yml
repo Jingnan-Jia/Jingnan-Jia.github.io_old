@@ -79,7 +79,7 @@ social:
 analytics:
   provider               :  "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  G-7XY9280WBB
+    tracking_id          :  G-CKPT9H2LK4
 
 
 # Search setting
