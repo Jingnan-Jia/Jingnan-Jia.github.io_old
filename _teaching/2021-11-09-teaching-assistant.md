@@ -1,6 +1,6 @@
 ---
 title: "Teaching assistant in Matlab in Image Processing 2021"
-collection: teaching assistant
+collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-11-09-teaching-assistant
 venue: "Online, Leiden University Medical Center"

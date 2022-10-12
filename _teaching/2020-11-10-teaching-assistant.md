@@ -1,6 +1,6 @@
 ---
 title: "Teaching assistant in Matlab in Image Processing 2020"
-collection: teaching assistant
+collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020-11-10-teaching-assistant
 venue: "Online, Leiden University Medical Center"

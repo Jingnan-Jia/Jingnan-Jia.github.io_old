@@ -210,6 +210,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: true
+      comments: true
+      related: true
 
   # _technical_blog
   - scope:
@@ -221,8 +224,8 @@ defaults:
       layout: single  # the optional layouts can be found under directory `_layouts`
       author_profile: true
       read_time: true
-      comments: true
       share: true
+      comments: true
       related: true
 
 
@@ -235,6 +238,8 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      related: true
+
   # _publications
   - scope:
       path: ""
@@ -244,6 +249,8 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      related: true
+
   # life
   - scope:
       path: ""
@@ -253,6 +260,8 @@ defaults:
       author_profile: true
       share: true
       comment: true
+      related: true
+
   # _talks
   - scope:
       path: ""
@@ -261,6 +270,8 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      comment: true
+      related: true
 
 # Sass/SCSS
 sass:
