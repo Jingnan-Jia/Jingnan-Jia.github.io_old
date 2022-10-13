@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href='/files/Jingnan_cv_2019.pdf'>PDF version (not updated frequently)</a>
+<a href='/files/Jingnan_cv_2022.pdf'>PDF version (not updated frequently)</a>
 
 Education
 ======
