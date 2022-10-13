@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<a href='/files/Jingnan_cv_2022.pdf'>PDF version (not updated frequently)</a>
+<a href='/files/Jingnan_cv_2022.pdf'>CV PDF (not updated frequently)</a>
+<a href='/files/Jingnan_cv_2022_Chinese.pdf'>CV PDF (Chinese version) 中文简历下载 (not updated frequently)</a>
 
 Education
 ======
@@ -57,7 +58,7 @@ Linux, Vim, Latex, Git, Jekyll, Sphinx, Docker, MLFlow, MONAI, SimpleITK, Lighti
 
 Achievements
 =================
-* Finalist of best student paper award for SPIE: Medical Imaging 2022. [Cerificate is here](/files/spie_certificate.pdf)
+* Finalist of best student paper award for SPIE: Medical Imaging 2022. [Cerificate of award](/files/spie_certificate.pdf)
 * Top 3 of at the UCL Medical Image Compting Summer School (MedICSS). [Certificate of participation](/files/MedICSS2021_certificate_Participant_Jingnan-Jia.pdf). [Certificate of award](/files/MedICSS2021_certificate_ProjectMerit_Jingnan-Jia.pdf).   
 
 
