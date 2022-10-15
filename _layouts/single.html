@@ -65,17 +65,16 @@ layout: default
 
       </footer>
 
-      <section class="page__share">
-        {% if page.share %}{% include social-share.html %}{% endif %}
-      </section>
+      {% if page.share %}{% include social-share.html %}{% endif %}
 
+      {% include post_pagination.html %}
+
+      {% if site.comments.provider and page.comments %}
+        {% include comments.html %}
+      {% endif %}
     </div>
 
-    {% include post_pagination.html %}
 
-    {% if site.comments.provider and page.comments %}
-      {% include comments.html %}
-    {% endif %}
 
 <!--    {% comment %}&lt;!&ndash; only show related on a post page when not disabled &ndash;&gt;{% endcomment %}-->
     {% if page.id and page.related and site.related_posts.size > 0 %}
